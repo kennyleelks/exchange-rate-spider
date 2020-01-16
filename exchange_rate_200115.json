@@ -1,0 +1,21 @@
+[
+{"currency": "美金 (USD)", "cash_buy": "29.5", "cash_sell": "30.17", "account_buy": "29.85", "account_sell": "29.95"},
+{"currency": "港幣 (HKD)", "cash_buy": "3.688", "cash_sell": "3.892", "account_buy": "3.814", "account_sell": "3.874"},
+{"currency": "英鎊 (GBP)", "cash_buy": "37.72", "cash_sell": "39.84", "account_buy": "38.72", "account_sell": "39.14"},
+{"currency": "澳幣 (AUD)", "cash_buy": "20.23", "cash_sell": "21.01", "account_buy": "20.5", "account_sell": "20.73"},
+{"currency": "加拿大幣 (CAD)", "cash_buy": "22.4", "cash_sell": "23.31", "account_buy": "22.79", "account_sell": "23.01"},
+{"currency": "新加坡幣 (SGD)", "cash_buy": "21.61", "cash_sell": "22.52", "account_buy": "22.1", "account_sell": "22.28"},
+{"currency": "瑞士法郎 (CHF)", "cash_buy": "30.1", "cash_sell": "31.3", "account_buy": "30.76", "account_sell": "31.05"},
+{"currency": "日圓 (JPY)", "cash_buy": "0.2628", "cash_sell": "0.2756", "account_buy": "0.2701", "account_sell": "0.2741"},
+{"currency": "南非幣 (ZAR)", "cash_buy": "-", "cash_sell": "-", "account_buy": "2.04", "account_sell": "2.12"},
+{"currency": "瑞典幣 (SEK)", "cash_buy": "2.77", "cash_sell": "3.29", "account_buy": "3.11", "account_sell": "3.21"},
+{"currency": "紐元 (NZD)", "cash_buy": "19.3", "cash_sell": "20.15", "account_buy": "19.68", "account_sell": "19.88"},
+{"currency": "泰幣 (THB)", "cash_buy": "0.8646", "cash_sell": "1.0526", "account_buy": "0.9732", "account_sell": "1.0132"},
+{"currency": "菲國比索 (PHP)", "cash_buy": "0.5161", "cash_sell": "0.6491", "account_buy": "-", "account_sell": "-"},
+{"currency": "印尼幣 (IDR)", "cash_buy": "0.00188", "cash_sell": "0.00258", "account_buy": "-", "account_sell": "-"},
+{"currency": "歐元 (EUR)", "cash_buy": "32.46", "cash_sell": "33.8", "account_buy": "33.08", "account_sell": "33.48"},
+{"currency": "韓元 (KRW)", "cash_buy": "0.02411", "cash_sell": "0.02801", "account_buy": "-", "account_sell": "-"},
+{"currency": "越南盾 (VND)", "cash_buy": "0.00091", "cash_sell": "0.00141", "account_buy": "-", "account_sell": "-"},
+{"currency": "馬來幣 (MYR)", "cash_buy": "6.223", "cash_sell": "7.867", "account_buy": "-", "account_sell": "-"},
+{"currency": "人民幣 (CNY)", "cash_buy": "4.243", "cash_sell": "4.405", "account_buy": "4.315", "account_sell": "4.365"}
+]
