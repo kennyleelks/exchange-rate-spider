@@ -3,7 +3,7 @@ A spider for getting latest currency exchange rate from [Bank of Taiwan](https:/
 
 ## Usage
   
-  * Scrape Without saving result:
+  * Scrape without saving result:
 
     `scrapy crawl exchange_rate`
   
